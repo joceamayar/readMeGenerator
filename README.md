@@ -1,4 +1,4 @@
-[apache]
+[mit]
 # Your Project Title 
 README Generator 
 
@@ -51,14 +51,15 @@ Step 4: Start the Program
 - Press Enter to confirm your selection then proceed to the next question.
 - To skip a question press enter and the program will prompt you with the next question. 
 - The program will then proceed to generate your README file based on your responses.
-- To quit the program press Ctrl + C
 
+- To quit the program press Ctrl + C
+- To discard the changes on your repository open Github Desktop click right click on the file and discard the changes. 
 
 [Uploading README Generator.webm…]()
 
 
 ## License
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 https://zoom.us/rec/play/hEcePD_OzQPUSN4TcZJW9tPUlwNm4M8wQnbTNFZI9HxFtAhstr8Qwfbg0sd02HLjG7VWWGwic408vQLZ.XZ4t581wAN047Bot?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FYkS-lQKltS7T5B00WmOx1Q13Lzn01qVPpMLO4h5aG1fXLAVFqXaTgOZW_gJ2zNPl.kZWQ7vlAJDSZpFo
@@ -69,4 +70,7 @@ https://docs.npmjs.com/cli/v10/configuring-npm/package-json
 ## Questions 
 
 If you have any questions visit my GitHub profile https://github.com/joceamayar or email me at Jocelin@tavlee.com . Thank you!!
+
+
+
 
