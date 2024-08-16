@@ -15,8 +15,6 @@ This program is designed to automate the creation of a README file for a softwar
 ## Installation 
 First, ensure you have Node.js installed on your computer. Then, install the necessary Node.js packages by running npm install inquirer and npm install fs.promises in your project directory to install the required dependencies.
 
-## Usage
-
 Step 1: Clone the Repository
 
 - Navigate to the repository on GitHub.
@@ -41,10 +39,17 @@ Step 3: Install Dependencies
 - This will download and install all dependencies specified in the package.json file.
 
 
+## Usage
+
 Step 4: Start the Program
 
-- In the terminal, while inside the readMeGenerator directory, start the program by running: node index.mjs
-- The program should now be running, and you can proceed to use it to generate your README file.
+- Open the terminal and navigate to the readMeGenerator directory.
+- Start the program by running: node index.mjs
+- The program will begin running and prompt you with a series of questions.
+- Answer each question and press Enter to proceed to the next one.
+- When selecting the license, use the up and down arrow keys to navigate through the options. The selected option will be highlighted in blue.
+- Press Enter to confirm your selection then proceed to the next question.
+- The program will then proceed to generate your README file based on your responses.
 
 
 [Uploading README Generator.webm…]()
