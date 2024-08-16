@@ -18,29 +18,33 @@ First, ensure you have Node.js installed on your computer. Then, install the nec
 ## Usage
 
 Step 1: Clone the Repository
-Navigate to the repository on GitHub.
-Click on the green < > Code button at the top of the page.
-Select the SSH option and copy the SSH URL (e.g., git@github.com:joceamayar/readMeGenerator.git).
-Open your terminal.
-Navigate to the parent directory where you want the project folder to reside
-cd path/to/parent-directory
-Clone the repository by typing: git clone git@github.com:joceamayar/readMeGenerator.git
-Verify that the repository has been cloned successfully by listing the contents of the directory: ls
-You should see a directory named readMeGenerator.
+
+-Navigate to the repository on GitHub.
+-Click on the green < > Code button at the top of the page.
+-Select the SSH option and copy the SSH URL (e.g., git@github.com:joceamayar/readMeGenerator.git).
+-Open your terminal.
+-Navigate to the parent directory where you want the project folder to reside
+-cd path/to/parent-directory
+-Clone the repository by typing: git clone git@github.com:joceamayar/readMeGenerator.git
+-Verify that the repository has been cloned successfully by listing the contents of the directory: ls
+-You should see a directory named readMeGenerator.
 
 Step 2: Open the Project in Visual Studio Code
-Change into the newly cloned project directory: cd readMeGenerator
-Open the project in Visual Studio Code by typing: code .
-This will launch VS Code with the project open.
+
+-Change into the newly cloned project directory: cd readMeGenerator
+-Open the project in Visual Studio Code by typing: code .
+-This will launch VS Code with the project open.
 
 Step 3: Install Dependencies
-Make sure all necessary packages and dependencies are installed. Run the following command in your terminal: npm install
-This will download and install all dependencies specified in the package.json file.
+
+-Make sure all necessary packages and dependencies are installed. Run the following command in your terminal: npm install
+-This will download and install all dependencies specified in the package.json file.
 
 
 Step 4: Start the Program
-In the terminal, while inside the readMeGenerator directory, start the program by running: node index.mjs
-The program should now be running, and you can proceed to use it to generate your README file.
+
+-In the terminal, while inside the readMeGenerator directory, start the program by running: node index.mjs
+-The program should now be running, and you can proceed to use it to generate your README file.
 
 
 [Uploading README Generator.webm…]()
