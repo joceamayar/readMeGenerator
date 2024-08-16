@@ -1,4 +1,4 @@
-[mit]
+[MIT]
 # Your Project Title 
 README Generator 
 
