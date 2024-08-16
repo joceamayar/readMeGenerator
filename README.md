@@ -49,7 +49,9 @@ Step 4: Start the Program
 - Answer each question and press Enter to proceed to the next one.
 - When selecting the license, use the up and down arrow keys to navigate through the options. The selected option will be highlighted in blue.
 - Press Enter to confirm your selection then proceed to the next question.
+- To skip a question press enter and the program will prompt you with the next question. 
 - The program will then proceed to generate your README file based on your responses.
+- To quit the program press Ctrl + C
 
 
 [Uploading README Generator.webm…]()
