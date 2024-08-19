@@ -4,7 +4,7 @@ README Generator
 
 ## Project Description
 
-This program is designed to automate the creation of a README file for a software project. It prompts users with a series of questions, allowing them to input project-related information such as the title, description, and licensing preferences. Once all the prompts are completed, the program generates a formatted README file with the user's input, including a table of contents and license badge. This streamlined process ensures that users can quickly and accurately generate comprehensive project documentation without missing any crucial details.
+This program is designed to automate the creation of a README file. It prompts users with a series of questions, allowing them to input project-related information such as the title, description, and licensing preferences. Once all the prompts are completed, the program generates a formatted README file with the user's input, including a table of contents and license badge. This streamlined process ensures that users can quickly and accurately generate comprehensive project documentation without missing any crucial details.
 
  ## Table of Contents
  - [Installation](#installation)
@@ -13,7 +13,7 @@ This program is designed to automate the creation of a README file for a softwar
  - [License](#license)
 
 ## Installation 
-First, ensure you have Node.js installed on your computer. Then, install the necessary Node.js packages by running npm install inquirer and npm install fs.promises in your project directory to install the required dependencies.
+First, ensure you have Node.js installed on your computer. Then, install the necessary dependencies by running npm install inquirer and npm install fs.promises in your project directory
 
 Step 1: Clone the Repository
 
