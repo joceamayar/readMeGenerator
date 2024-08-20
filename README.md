@@ -13,7 +13,7 @@ This program is designed to automate the creation of a README file for a softwar
  - [License](#license)
 
 ## Installation 
-First, ensure you have Node.js installed on your computer. Then, install the necessary Node.js packages by running npm install inquirer and npm install fs.promises in your project directory to install the required dependencies.
+First, ensure you have Node.js installed on your computer. Then, install the necessary dependencies by running npm install inquirer and npm install fs.promises in your project directory
 
 Step 1: Clone the Repository
 
